@@ -1,3 +1,8 @@
+@font-face {
+    font-family: PixelTimesNewRoman;
+    src: url(fonts/PixelTimesNewRoman.ttf);
+  }
+
 body {
     background-image: url('images/bg.png');
 }
@@ -11,6 +16,15 @@ body {
   }
 
 #shirt {
-    margin-top: auto;
-    padding-top: 10px;
+    padding-top: 0px;
+}
+
+#construction {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+    font-family: 'PixelTimesNewRoman';
+    color: #be2633;
 }
