@@ -1,0 +1,16 @@
+body {
+    background-image: url('images/bg.png');
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -10px;
+  }
+
+#shirt {
+    margin-top: auto;
+    padding-top: 10px;
+}
