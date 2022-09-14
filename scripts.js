@@ -15,7 +15,3 @@ function sineMarTop() {
 }
 
 setInterval(sineMarTop, 100);
-
-// while (true) {
-//   elem.style.paddingTop += 1;
-// }

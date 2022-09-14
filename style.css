@@ -25,6 +25,14 @@ body {
     justify-content: center;
     align-items: center;
     margin-top: 300px;
+    font-size: 200%;
     font-family: 'PixelTimesNewRoman';
     color: #be2633;
+}
+
+#audioplayer {
+  max-width:3000px;
+  position:absolute;
+  top:0;
+  right:0;
 }
